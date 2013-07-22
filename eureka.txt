@@ -1,0 +1,7 @@
+http://jsfiddle.net/simpulton/XqDxG/
+http://jsfiddle.net/simpulton/GeAAB/
+
+
+sezioni ed holder come directive
+controllers=mediators
+appcontroller=main model

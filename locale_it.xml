@@ -1,0 +1,89 @@
+<data>
+	<locale>
+		<default><![CDATA[Stringa di default]]></default>
+		<state_label_storelocator><![CDATA[Store locator]]></state_label_storelocator>
+		<state_label_news><![CDATA[News]]></state_label_news>
+		<state_label_home><![CDATA[Home]]></state_label_home>
+		<state_label_wardrobe><![CDATA[Il Tuo Guardaroba]]></state_label_wardrobe>
+		
+		<label_sumisura><![CDATA[Su Misura]]></label_sumisura>
+
+		<label_close><![CDATA[Chiudi X]]></label_close>
+
+		<collection_label_collezione><![CDATA[Collezione]]></collection_label_collezione>
+		<collection_label_cerimonia><![CDATA[Cerimonia]]></collection_label_cerimonia>
+		<collection_label_accessori><![CDATA[Accessori]]></collection_label_accessori>
+		<collection_label_sfilate><![CDATA[Sfilata]]></collection_label_sfilate>
+
+		<label_cucito_title><![CDATA[Cucito su di Te]]></label_cucito_title>
+		<label_cucito_subtitle><![CDATA[Seleziona il tuo Look»]]></label_cucito_subtitle>
+
+		<label_style_t><![CDATA[Tradizionale]]></label_style_t>
+		<label_style_c><![CDATA[Contemporaneo]]></label_style_c>
+		<label_style_s><![CDATA[Sportivo]]></label_style_s>
+		<label_style_e><![CDATA[Elegante]]></label_style_e>
+		<label_style_d><![CDATA[Giorno]]></label_style_d>
+		<label_style_n><![CDATA[Sera]]></label_style_n>
+		
+		<label_language_it><![CDATA[Ita]]></label_language_it>
+		<label_language_en><![CDATA[Eng]]></label_language_en>
+		<label_language_zh><![CDATA[中文]]></label_language_zh>
+
+		<label_descrizione><![CDATA[Descrizione]]></label_descrizione>
+		<label_inquesto><![CDATA[In questo look]]></label_inquesto>
+		<label_codici><![CDATA[Codici Prodotto - Per saperne di più]]></label_codici>
+		<label_condividi><![CDATA[Condividi]]></label_condividi>
+		<label_news><![CDATA[News]]></label_news>
+
+		<label_header_wardrobe><![CDATA[Il tuo guardaroba]]></label_header_wardrobe>
+
+		<label_storeloc_prompt><![CDATA[Cerca uno store]]></label_storeloc_prompt>
+		<label_storeloc_nearby><![CDATA[Near me]]></label_storeloc_nearby>
+		<label_storeloc_title><![CDATA[Stores in ]]></label_storeloc_title>
+		
+		<label_storeloc_sheet_email><![CDATA[Email]]></label_storeloc_sheet_email>
+		<label_storeloc_sheet_call><![CDATA[Chiama]]></label_storeloc_sheet_call>
+		<label_storeloc_sheet_path><![CDATA[Percorso]]></label_storeloc_sheet_path>
+		<label_storeloc_sheet_share><![CDATA[Condividi]]></label_storeloc_sheet_share>
+
+		<label_loading_title><![CDATA[Attendere]]></label_loading_title>
+		<label_loading_message><![CDATA[Caricamento in corso]]></label_loading_message>
+
+		<label_combo_nations><![CDATA[Seleziona una nazione]]></label_combo_nations>
+		<label_combo_cities><![CDATA[Seleziona una città]]></label_combo_cities>
+
+		<label_sheet_like><![CDATA[Like]]></label_sheet_like>
+		<label_sheet_share><![CDATA[Condividi]]></label_sheet_share>
+		<label_sheet_wardrobe_plus><![CDATA[Aggiungi al tuo<br>Guardaroba]]></label_sheet_wardrobe_plus>
+		<label_sheet_wardrobe_minus><![CDATA[Rimuovi dal tuo<br>Guardaroba]]></label_sheet_wardrobe_minus>
+		<label_sheet_email><![CDATA[Richiedi info]]></label_sheet_email>
+
+		<label_menu_help><![CDATA[Help]]></label_menu_help>
+
+		<label_mailto_richiesta><![CDATA[Richiesta informazioni per:]]></label_mailto_richiesta>
+		<label_mailto_ps><![CDATA[[per richiedere la disponibilità dei prodotti selezionati, inserire per favore la provincia desiderata] ]]></label_mailto_ps>
+		
+		<label_mailto_store_subject><![CDATA[Entra nel mondo Corneliani]]></label_mailto_store_subject>
+		<label_mailto_store><![CDATA[Ti invito a visitare questo store:]]></label_mailto_store>
+
+		<label_share_ios><![CDATA[Condividi su:]]></label_share_ios>
+
+		<label_product_url_prefix><![CDATA[http://www.corneliani.com/it/product/]]></label_product_url_prefix>
+		<label_store_url_prefix><![CDATA[http://stage.corneliani.com/node/]]></label_store_url_prefix>
+
+		<label_wardrobe_empty><![CDATA[Nessun oggetto nel guardaroba]]></label_wardrobe_empty>
+		
+		<label_no_gps><![CDATA[Devi aver attivato<br>la localizzazione GPS<br>per vedere la lista  dei negozi<br>intorno a te.<br><br>Utilizza la ricerca in alto<br>per trovare uno store.]]></label_no_gps>
+
+		<error_no_gps><![CDATA[GPS non disponibile]]></error_no_gps>
+		<error_gps_muted><![CDATA[Attiva il GPS]]></error_gps_muted>
+		<error_no_items_selected><![CDATA[Seleziona almeno un codice]]></error_no_items_selected>
+		<error_no_city_selected><![CDATA[Seleziona una città.]]></error_no_city_selected>
+		
+		<error_no_network_storeloc><![CDATA[Occorre essere online per consultare la sezione]]></error_no_network_storeloc>
+		<error_no_network_startup><![CDATA[Occorre essere online per vedere il contenuto]]></error_no_network_startup>
+		<error_no_network_update><![CDATA[Occorre essere online per aggiornare i dati]]></error_no_network_update>
+		<error_no_network_videos><![CDATA[Occorre essere online per vedere i video]]></error_no_network_videos>
+	</locale>
+
+</data>
